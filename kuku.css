@@ -1,0 +1,126 @@
+.section{
+}
+
+#header{background-image: ;
+    background-size: cover;
+    border: 100px;
+}
+
+#header img{display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border-radius: 100px;  
+    margin-top: 10px;
+}
+
+#header p{padding-top: 5px;
+    text-align: center;
+    font-size: 25pt;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+h1{font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-align: center;
+    padding: 18px;
+    margin: 10px;
+}
+
+h1 span{border: 2px dashed;
+    padding: 10px;
+}
+
+p{padding-left: 300px;
+    padding-right: 300px;
+    margin: 0%;
+}
+
+table{  width: 340px;
+    margin-left: 21pc;
+    
+   
+}
+
+table, th, td{border: 2px solid;
+    border-collapse: collapse;
+    table-layout: auto;
+   
+}
+
+li{margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.quote{font-size: 12pt;
+    text-align: right;
+    margin-top: 10px;
+}
+
+progress{width: 50%;
+    height: 20px;
+    color:
+}
+
+form{text-align: center;
+    margin-top: 0%;
+}
+
+.submit{background-color: #3fb6b2;
+    padding: 12px 45px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #ffff;
+    border:none;
+    outline: none;
+    margin: 0;
+    font-weight: bold;
+}
+
+.submit:hover{background-color: #43a09d;
+}
+
+textarea{height: 100px;
+}
+
+input, textarea{margin-bottom: 10px;
+    font-size: 11pt;
+    padding: 15px;
+    border: 1px solid #cecece;
+    background-color: #efefef;
+    color: #787575;
+    border-radius: 5px;
+    width: 70%;
+    outline: none;
+}
+
+.face{transform: scale(0.4);
+    margin: 0 auto;
+    display: block;
+    margin-top: -35px;
+    margin-bottom: -25px;
+}
+
+#contacts img{height: 50px;
+    width: 50px;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+#contacts a{text-decoration: none;
+}
+
+#contacts img:hover {opacity: 0.8;
+}
+
+#contacts{text-align: center;
+}
+
+.copyright{font-size: 8pt;
+    text-align: right;
+    padding-bottom: 10px;
+    color: grey;
+}
+
+body{background-color: rgb(236, 89, 236);}
